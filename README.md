@@ -1,4 +1,4 @@
-# Ella
+# Ella 💜
 - I participated in and organizing the first ever University of New Orleans x Tulane University Hackathon! 
 - With the theme being Social Innovation and Sustainability, My teammate and I wanted to focus on women’s issues. Only 5% of women who are sexually assaulted report their assault to the police. So we created Ella to combat that issue.
 

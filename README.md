@@ -15,7 +15,7 @@ Ella a mobile app designed to connect victims together to promote safety and enc
 
 # Screenshots: 
 <div>
-<img style = "width: 20vh; margin: 5vh;" src = "Images/Map.png">
-<img style = "width: 20vh; margin: 5vh;" src = "Images/Re.png">
-<img style = "width: 20vh; margin: 5vh;" src = "Images/Journal.png">
+<img style = "width: 20vh; margin: 5vh;" src = "Images/Map.PNG">
+<img style = "width: 20vh; margin: 5vh;" src = "Images/Re.PNG">
+<img style = "width: 20vh; margin: 5vh;" src = "Images/Journal.PNG">
 </div>

@@ -10,7 +10,7 @@ Ella a mobile app designed to connect victims together to promote safety and enc
 📜 A private journal to document experiences
 
 ⏰ Emergency contact and check-in system
-
+ 
 📞 National resource lines
 
 # Screenshots: 
